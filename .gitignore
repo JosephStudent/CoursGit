@@ -1,4 +1,5 @@
 # ignorer le fichier (gitigniore)
 paul.txt
 
-image
+#igniorer dossier
+image/
